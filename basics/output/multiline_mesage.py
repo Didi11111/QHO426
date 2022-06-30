@@ -1,5 +1,5 @@
 print("System failure Imminent!")
 print("System rebut has been initiated....")
-print("....rebooting sensory system")
+print("....rebooting sensory system\n")
 print("....rebooting output system")
 print("....rebooting hover system")
