@@ -1,0 +1,6 @@
+print("Please enter a character for the eye")
+y=input()
+print("##########")
+print(f"#  {y}  {y}  #")
+print("#  ----  #")
+print("##########")
