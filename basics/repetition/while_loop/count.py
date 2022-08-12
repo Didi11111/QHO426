@@ -6,6 +6,3 @@ while an > lives:
   lives+=1
   print(f"...Done! {lives} live cable avoided!")
 print("All live cables have been avoided.")
-  
-
-        
