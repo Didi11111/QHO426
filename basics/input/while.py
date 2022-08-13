@@ -8,7 +8,7 @@
 answer = ""
 while answer.lower()!= "stop":
   print("Dormanu, I came to bargain")
-  answerr =input()
+  answer =input()
 while True:
   print("Ha ha Ha")
   a=input()
